@@ -4,7 +4,7 @@
   border-color: #737373;
 }
 
-.nav a {
+.nav .navbar-nav .navbar-right li a {
   color: white;
   font-size: 11px;
   font-weight: bold;
