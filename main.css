@@ -16,6 +16,10 @@
   text-transform: uppercase;
 }
 
+.nav .navbar-nav .navbar-right li a{
+  color: #0d0d0d;
+}
+
 .nav li {
   display: inline;
 }
