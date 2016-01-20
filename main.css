@@ -2,6 +2,8 @@
   background-color: rgb(153, 204, 255);
   border-radius: 2px;
   border-color: #737373;
+  padding-left: 150px;
+  padding-right: 150px;
 }
 
 .nav a {
