@@ -5,8 +5,8 @@
 }
 
 .container {
-  padding-left: 150px;
-  padding-right: 150px;
+  border-left: 150px;
+  border-right: 150px;
 }
 
 .nav a {
