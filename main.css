@@ -1,11 +1,11 @@
 .navbar-default {
   background-color: rgb(153, 204, 255);
-  color: white;
   border-radius: 2px;
-  border-color: black;
+  border-color: #737373;
 }
 
-.nav a {
+.nav.navbar.navbardefault li a {
+  color: white;
   font-size: 11px;
   font-weight: bold;
   padding: 14px 10px;
