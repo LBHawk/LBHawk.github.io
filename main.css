@@ -9,3 +9,7 @@
 .nav li {
   display: inline;
 }
+
+.navbar-brand{
+  font-size:20px;
+}
