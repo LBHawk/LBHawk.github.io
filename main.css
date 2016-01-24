@@ -30,9 +30,9 @@
 .navbar-default .navbar-brand{
   font-size: 25px;
   padding-top: 20px;
-  color:#0d0d0d;
+  color:white;
 }
 
 .navbar-default .navbar-brand:hover{
-  color:#4d4d4d;
+  color:#ffdb4d;
 }
