@@ -2,11 +2,8 @@
   color:white;
 }
 
-#nav-font li:hover{
-  background-color:#3385ff;
-  & #nav-font .active a{
-    background-color:#0048b3;
-  }
+#nav-font li:hover a{
+  color:#ffdb4d;
 }
 
 #nav-font .active a{
