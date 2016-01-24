@@ -6,6 +6,10 @@
   background-color:#3385ff;
 }
 
+#nav-font .active a{
+  background-color:#3385ff;
+}
+
 .navbar-default {
   background-color: #0048b3;
   border-radius: 2px;
