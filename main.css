@@ -1,13 +1,13 @@
 #nav-font li a{
-  color:#0d0d0d;
+  color:white;
 }
 
-#nav-font li:hover a{
-  color:#4d4d4d;
+#nav-font li:hover{
+  background-color:#3385ff;
 }
 
 .navbar-default {
-  background-color: #66b2ff;
+  background-color: #0048b3;
   border-radius: 2px;
   border-color: #737373;
 }
