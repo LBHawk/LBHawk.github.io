@@ -6,14 +6,6 @@
   color:#4d4d4d;
 }
 
-.navbar-brand{
-  color:#0d0d0d;
-}
-
-.navbar-brand:hover{
-  color:4d4d4d;
-}
-
 .navbar-default {
   background-color: #66b2ff;
   border-radius: 2px;
@@ -38,4 +30,9 @@
 .navbar-brand{
   font-size: 25px;
   padding-top: 20px;
+  color:#0d0d0d;
+}
+
+.navbar-brand:hover{
+  color:#4d4d4d;
 }
