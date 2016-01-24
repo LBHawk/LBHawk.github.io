@@ -27,12 +27,12 @@
   display: inline;
 }
 
-.navbar-brand{
+.navbar-default .navbar-brand{
   font-size: 25px;
   padding-top: 20px;
   color:#0d0d0d;
 }
 
-.navbar-brand:hover{
+.navbar-default .navbar-brand:hover{
   color:#4d4d4d;
 }
