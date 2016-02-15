@@ -181,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: white;
 }
 
 section.success a,
@@ -201,6 +201,10 @@ section.success a.active {
     section.first {
         padding-top: 75px;
     }
+}
+
+#portfolio {
+    background: #18bc9c;
 }
 
 #portfolio .portfolio-item {
